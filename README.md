@@ -21,7 +21,7 @@ To get started with the project, follow these steps:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/tanishkadeep/landing-page.git
+   git clone https://github.com/abhimishraofficial/landing-page.git
    cd modern-saas-landing-page
    ```
 
@@ -43,6 +43,6 @@ To get started with the project, follow these steps:
 
 ---
 
-📬 If you have any questions or feedback, feel free to contact me at tanishkadeep09@gmail.com
+📬 If you have any questions or feedback, feel free to contact me at shashankmishrahjp@gmail.com
 
 ---

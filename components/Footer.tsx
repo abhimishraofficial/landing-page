@@ -18,16 +18,27 @@ const Footer = () => {
         <div>
           This website is developed by{" "}
           <div className="font-semibold text-white hover:underline text-lg">
-            <a href="https://github.com/tanishkadeep">
-              Tanishka Deep <MdOutlineArrowOutward className="inline" />
+            <a href="https://abhishekme.vercel.app/">
+              Abhishek Kumar<MdOutlineArrowOutward className="inline" />
             </a>
           </div>
         </div>
         <div className="flex gap-4 text-2xl cursor-pointer">
-          <FaXTwitter className="hover:scale-125" />
+          <a 
+  href="https://x.com/abhi__mishra28" 
+  target="_blank" 
+  rel="noopener noreferrer"
+>
+  <FaXTwitter className="hover:scale-125" />
+</a>
+
           <AiFillInstagram className="hover:scale-125" />
           <FaPinterest className="hover:scale-125" />
-          <FaLinkedin className="hover:scale-125" />
+          <a href="https://www.linkedin.com/in/abhishek-kumar-30483023a/" target="_blank"
+          rel="noopener noreferrer">
+  <FaLinkedin />
+</a>
+
           <FaTiktok className="hover:scale-125" />
           <FaYoutube className="hover:scale-125" />
         </div>
